@@ -6,6 +6,26 @@
 
 ### LinuxGSM Installation
 
+https://docs.linuxgsm.com/
+
+### Metamod Installation
+
+https://www.sourcemm.net/
+
+### Sourcemod Installation
+
+https://www.sourcemod.net/
+
+### L4DToolZ Installation
+
+https://github.com/Accelerator74/l4dtoolz/releases
+
+### MultiSlots Installation
+
+https://forums.alliedmods.net/showthread.php?p=1239544
+
+### SteamCMD Installation (Optional)
+
 ## Usage
 
 ### Run in Docker
