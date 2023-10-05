@@ -24,7 +24,10 @@ https://github.com/Accelerator74/l4dtoolz/releases
 
 https://forums.alliedmods.net/showthread.php?p=1239544
 
-### SteamCMD Installation (Optional)
+### SteamCMD Installation (steamclient.so)
+
+apt install steamcmd
+/usr/games/steamcmd
 
 ## Usage
 
