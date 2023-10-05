@@ -4,9 +4,19 @@
 
 ### Docker Installation
 
+sudo useradd linuxgsm
+su linuxgsm
+docker pull ubuntu
+docker run -it --entrypoint /bin/sh ubuntu
+# In Docker Container
+adduser linuxgsm # set id as hosts's linuxgsm user in /etc/{passwd,group}
+docker run -it -v /mnt/27TB/home/linuxgsm:/home/gsm --net=host -u gsm --entrypoint /bin/zsh -w /home/gsm linuxgsm
+
+
 ### LinuxGSM Installation
 
-https://docs.linuxgsm.com/
+Choose Game Server https://linuxgsm.com/servers/ and follow Dependencies/Installation instructions.
+Also read Basic Usage.
 
 ### Metamod Installation
 
