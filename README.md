@@ -30,9 +30,36 @@ https://www.sourcemod.net/
 
 https://github.com/Accelerator74/l4dtoolz/releases
 
-### MultiSlots Installation
+### ABM: A MultiSlots / SuperVersus Alternative
 
-https://forums.alliedmods.net/showthread.php?p=1239544
+https://forums.alliedmods.net/showthread.php?p=2477820
+https://gitlab.com/vbgunz/ABM
+
+### Left 4 Downtown 2
+
+https://forums.alliedmods.net/showthread.php?t=134032
+
+### L4D AFK Fix: [L4D(2)] 4+ Survivor AFK Fix (1.2)
+
+https://forums.alliedmods.net/showthread.php?t=132409?t=132409
+
+### L4D2 8+ Players Bugfixes
+
+https://github.com/Satanic-Spirit/l4d2_bugfixes
+
+### Defib_Fix Defib_Fix[Left 4 Fix][28/02/2023]
+
+https://forums.alliedmods.net/showthread.php?p=2647018
+
+### Grenade Throwing Bots
+
+https://forums.alliedmods.net/showthread.php?p=2511824
+
+
+### Grenade Transfer
+
+https://forums.alliedmods.net/showthread.php?p=1128204
+
 
 ### SteamCMD Installation (steamclient.so)
 
