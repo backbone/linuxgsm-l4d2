@@ -26,7 +26,7 @@ https://www.sourcemm.net/
 
 https://www.sourcemod.net/
 
-### L4DToolZ Installation
+### L4DToolZ v1.1.0.2
 
 https://github.com/Accelerator74/l4dtoolz/releases
 
@@ -35,28 +35,28 @@ https://github.com/Accelerator74/l4dtoolz/releases
 https://forums.alliedmods.net/showthread.php?p=2477820
 https://gitlab.com/vbgunz/ABM
 
-### Left 4 Downtown 2
+### Left 4 Downtown 2 v0.5.4.2
 
 https://forums.alliedmods.net/showthread.php?t=134032
 
-### L4D AFK Fix: [L4D(2)] 4+ Survivor AFK Fix (1.2)
+### L4D AFK Fix: [L4D(2)] 4+ Survivor AFK Fix (1.2) v1.2
 
 https://forums.alliedmods.net/showthread.php?t=132409?t=132409
 
-### L4D2 8+ Players Bugfixes
+### L4D2 8+ Players Bugfixes v1.0.2.1
 
-https://github.com/Satanic-Spirit/l4d2_bugfixes
+https://github.com/Satanic-Spirit/l4d2_bugfixes 
 
-### Defib_Fix Defib_Fix[Left 4 Fix][28/02/2023]
+### Defib_Fix Defib_Fix[Left 4 Fix][28/02/2023] 2.0.1
 
 https://forums.alliedmods.net/showthread.php?p=2647018
 
-### Grenade Throwing Bots
+### Grenade Throwing Bots v1.7
 
 https://forums.alliedmods.net/showthread.php?p=2511824
 
 
-### Grenade Transfer
+### Grenade Transfer v1.0
 
 https://forums.alliedmods.net/showthread.php?p=1128204
 
