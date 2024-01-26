@@ -30,7 +30,7 @@ https://www.sourcemod.net/
 
 https://github.com/Accelerator74/l4dtoolz/releases
 
-### ABM: A MultiSlots / SuperVersus Alternative
+### ABM: A MultiSlots / SuperVersus Alternative v0.1.95
 
 https://forums.alliedmods.net/showthread.php?p=2477820
 https://gitlab.com/vbgunz/ABM
