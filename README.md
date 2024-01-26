@@ -51,16 +51,6 @@ https://github.com/Satanic-Spirit/l4d2_bugfixes
 
 https://forums.alliedmods.net/showthread.php?p=2647018
 
-### Grenade Throwing Bots v1.7
-
-https://forums.alliedmods.net/showthread.php?p=2511824
-
-
-### Grenade Transfer v1.0
-
-https://forums.alliedmods.net/showthread.php?p=1128204
-
-
 ### SteamCMD Installation (steamclient.so)
 
 apt install steamcmd
