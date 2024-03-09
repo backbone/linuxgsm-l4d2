@@ -51,6 +51,10 @@ https://github.com/Satanic-Spirit/l4d2_bugfixes
 
 https://forums.alliedmods.net/showthread.php?p=2647018
 
+### Infected Health Gauge Redux (Tank & Witch & Special)
+
+https://forums.alliedmods.net/showthread.php?p=2803852
+
 ### SteamCMD Installation (steamclient.so)
 
 apt install steamcmd
